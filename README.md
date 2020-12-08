@@ -15,3 +15,15 @@ CPU : i5-4590T 2Ghz
 RAM : 4 GB 1333Mhz DDR3
 
 Graphics : Intel HD Graphics 4600
+## What's not working:
+Discovered :
+
+Microphone (2 to 1)
+
+You tell me
+## How to contact author
+Tencent Message (QQ) : 1447427246
+
+Email : [hikarilh@foxmail.com](mailto:hikarilh@foxmail.com)
+
+Wechat : N-Dreadnought
